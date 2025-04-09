@@ -5,6 +5,10 @@
 Una aplicación móvil de calculadora creada con **Jetpack Compose** en Android Studio como parte del curso de desarrollo móvil.
 
 ---
+## 📸 Captura de pantalla
+
+![Captura de la app](app/sampledata/calculadora.png)
+
 
 ## 🧮 Funcionalidades
 
