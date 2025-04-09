@@ -1,4 +1,5 @@
-﻿# CalculadoraApp2025
+﻿# CalculadoraApp2025 
+ JOSEPH ROMERO RODRIGGUEZ
 # 📱 CalculadoraApp2025
 
 Una aplicación móvil de calculadora creada con **Jetpack Compose** en Android Studio como parte del curso de desarrollo móvil.
